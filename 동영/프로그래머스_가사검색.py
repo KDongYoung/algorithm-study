@@ -43,3 +43,5 @@ def solution(words, queries):
     
 
     return answer
+
+##### Trie 알고리즘으로 사용 가능 -> 포인터용 dictionary를 사용하는 방법 느낌

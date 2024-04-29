@@ -93,3 +93,5 @@ if __name__=="__main__":
         print(-1)
     else: # start 존재시 (start~end까지 갯수 계산)
         print(bs_end(element, x, 0, len(element)-1) - bs_start(element, x, 0, len(element)-1) + 1)
+        # 앞에서부터 확인, 뒤에서 확인
+        
